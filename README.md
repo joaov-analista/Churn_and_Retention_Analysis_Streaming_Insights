@@ -21,7 +21,10 @@ Com os dados tratados, o foco foi transformar números em decisões:
 Principais Conclusões💡
 
 Engajamento vs. Retenção: A taxa de recomendação e a conclusão de sessões são os maiores preditores de fidelidade.
-Otimização de Planos: O Plano Standard para jovens precisa de um "gancho" maior de conteúdo para evitar a evasão para planos básicos ou concorrentes.
-Este projeto reforça minha transição para a área de dados, unindo visão administrativa e financeira com o poder das ferramentas analíticas.
+Otimização de Planos: O Plano Standard para jovens precisa de um "gancho" maior de conteúdo para evitar a evasão para planos básicos ou
+concorrentes.
+
+Este projeto reforça minha transição para a área de dados, unindo visão administrativa e financeira com o poder das ferramentas
+analíticas.
 
 Tecnologias utilizadas: MySQL, Power BI, DAX e UI/UX Design.
